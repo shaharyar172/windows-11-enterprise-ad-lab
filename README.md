@@ -64,19 +64,29 @@ After disabling VBS/Hyper-V conflicts, the VM booted successfully.
 ## Screenshots
 
 ### BIOS Virtualization Enabled
-![BIOS Virtualization](images/bios-virtualization.jpg)
+![BIOS Virtualization](images/bios-virtualization.jpg.jpeg)
 
-### ISO Attached in VirtualBox
-![ISO Attached](images/iso-attached.jpg)
+### Black Screen Issue
+![Black Screen](images/black-screen.jpg.jpeg)
 
-### VirtualBox Display Settings
-![Display Settings](images/vbox-display.jpg)
+### Full Screen Hotkey Message
+![Full Screen Hotkey](images/full-screen-hotkey.jpg.jpeg)
 
-### Windows Features Error
-![Windows Feature Error](images/windows-feature-error.jpg)
+### ISO Download
+![ISO Download](images/iso-download.jpg)
 
-### Task Manager Resource Monitoring
-![Task Manager](images/task-manager.jpg)
+### Storage Settings
+![Storage Settings](images/storage-settings.jpg.jpeg)
+
+### Task Manager - Disk Usage
+![Task Manager Disk](images/task-manager-disk.jpg.jpeg)
+
+### Task Manager - Memory Usage
+![Task Manager Memory](images/task-manager-memory.jpg.jpeg)
+
+### VirtualBox Version
+![VirtualBox Version](images/virtualbox-version.jpg.jpeg)
+
 
 ---
 
